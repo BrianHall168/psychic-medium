@@ -19,8 +19,8 @@ Text Domain: pmn-theme
   --bg-glow:#2b2150;
   --gold:#d4a558;
   --gold-light:#e8c98a;
-  --gold-deep:#b98f45;
-  --gold-eyebrow:#a4813f;
+  --gold-deep:#8f6d2a;
+  --gold-eyebrow:#8a6a2c;
   --tx-head:#f6f1e3;
   --tx-head-2:#f3edda;
   --tx-body:#efeaf7;
@@ -476,3 +476,27 @@ a.pm-card:hover{box-shadow:var(--shadow-card);transform:translateY(-3px)}
   .pm-btnrow{flex-direction:column}
   .pm-btn{width:100%;text-align:center}
 }
+
+/* ==========================================================================
+   HOMEBLOCKS BRIDGE — map the shared .hb-scope tokens onto this dark palette.
+   inc/homeblocks.php inlines a light-theme default set (#1c1e26 text on a
+   #f4f5f8 surface). Unmapped, that renders near-invisible on the dark bands,
+   so every token it reads is bound to a theme colour here.
+   ========================================================================== */
+.hb-scope{
+  --hb-accent:var(--gold-light);
+  --hb-text:var(--tx-body);
+  --hb-muted:var(--tx-muted-2);
+  --hb-surface:var(--bg-panel);
+  --hb-border:var(--bd-gold);
+  --hb-good:#6fd08c;
+}
+.hb-scope h1.wp-block-heading,
+.hb-scope h2.wp-block-heading,
+.hb-scope h3.wp-block-heading,
+.hb-scope h4.wp-block-heading{color:var(--tx-head)}
+.hb-scope .hb-steps h3.wp-block-heading{color:var(--gold-light)}
+.hb-scope .hb-avoid-label{color:var(--tx-muted-2)}
+.hb-scope strong{color:var(--tx-head-2)}
+.hb-scope a:not(.wp-block-button__link){color:var(--gold-light);text-decoration:underline}
+.hb-scope a.wp-block-button__link.hb-cta{color:#14102a}
