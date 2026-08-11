@@ -26,7 +26,7 @@ Text Domain: pmn-theme
   --tx-body:#efeaf7;
   --tx-muted:#bcb2d6;
   --tx-muted-2:#a99fc4;
-  --tx-faint:#7d7399;
+  --tx-faint:#8a80a6;
   --tx-dk-head:#241e3c;
   --tx-dk-body:#2a2440;
   --tx-dk-muted:#5e577a;
@@ -204,7 +204,7 @@ a.pm-card:hover{box-shadow:var(--shadow-card);transform:translateY(-3px)}
 .pm-reader__name{font-family:var(--font-head);font-size:23px;font-weight:600;color:var(--tx-dk-head)}
 .pm-reader__role{font-size:12px;letter-spacing:0.12em;text-transform:uppercase;color:var(--gold-eyebrow);margin:5px 0 8px}
 .pm-reader__meta{color:var(--gold-deep);font-size:13px}
-.pm-reader__meta span{color:#8a83a3}
+.pm-reader__meta span{color:#6f6889}
 
 /* ==========================================================================
    TESTIMONIAL QUOTES
@@ -271,12 +271,12 @@ a.pm-card:hover{box-shadow:var(--shadow-card);transform:translateY(-3px)}
 .pm-form__intro{margin:0 0 32px;font-size:14px;line-height:1.65;color:var(--tx-dk-muted)}
 .pm-form__grid{display:flex;flex-direction:column;gap:24px}
 .pm-label{display:block;font-size:12px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:var(--tx-dk-head);margin-bottom:10px}
-.pm-label .opt{color:#8a83a3;text-transform:none;font-weight:400;letter-spacing:0}
+.pm-label .opt{color:#6f6889;text-transform:none;font-weight:400;letter-spacing:0}
 .pm-input,.pm-textarea{width:100%;box-sizing:border-box;padding:14px 16px;border:1px solid #ddd3bc;border-radius:10px;font-family:var(--font-body);font-size:14px;color:var(--tx-dk-body);background:#fdfbf4}
 .pm-textarea{resize:vertical}
 .pm-input:focus,.pm-textarea:focus{outline:2px solid var(--gold)}
-.pm-input::placeholder,.pm-textarea::placeholder{color:#8a83a3}
-.pm-drop{border:1.5px dashed #cdbf9d;border-radius:10px;padding:26px;text-align:center;color:#8a83a3;font-size:13.5px;background:#fdfbf4;cursor:pointer}
+.pm-input::placeholder,.pm-textarea::placeholder{color:#6f6889}
+.pm-drop{border:1.5px dashed #cdbf9d;border-radius:10px;padding:26px;text-align:center;color:#6f6889;font-size:13.5px;background:#fdfbf4;cursor:pointer}
 .pm-drop:hover{border-color:var(--gold-deep);color:var(--gold-eyebrow)}
 .pm-drop small{display:block;font-size:12px;margin-top:6px;color:#a9a1bd}
 .pm-radios{display:flex;flex-direction:column;gap:10px}
@@ -284,7 +284,7 @@ a.pm-card:hover{box-shadow:var(--shadow-card);transform:translateY(-3px)}
 .pm-radio input{accent-color:var(--gold-deep)}
 .pm-form__submit{border:none;cursor:pointer;font-size:14px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:#14102a;background:linear-gradient(135deg,var(--gold-light),var(--gold));padding:18px;border-radius:var(--radius-pill);box-shadow:var(--shadow-md)}
 .pm-form__submit:hover{filter:brightness(1.06)}
-.pm-form__note{margin:0;text-align:center;font-size:12px;line-height:1.6;color:#8a83a3}
+.pm-form__note{margin:0;text-align:center;font-size:12px;line-height:1.6;color:#6f6889}
 .pm-book__side{display:flex;flex-direction:column;gap:22px;position:sticky;top:100px}
 .pm-book__side img{width:100%;border-radius:var(--radius-lg);border:1px solid var(--bd-cream)}
 .pm-sidebox{border-radius:var(--radius-lg);padding:30px 28px}
@@ -499,4 +499,5 @@ a.pm-card:hover{box-shadow:var(--shadow-card);transform:translateY(-3px)}
 .hb-scope .hb-avoid-label{color:var(--tx-muted-2)}
 .hb-scope strong{color:var(--tx-head-2)}
 .hb-scope a:not(.wp-block-button__link){color:var(--gold-light);text-decoration:underline}
-.hb-scope a.wp-block-button__link.hb-cta{color:#14102a}
+/* the inlined homeblocks <style> sits in the body, so it wins a specificity tie */
+.hb-scope a.wp-block-button__link.hb-cta{color:#14102a!important}
