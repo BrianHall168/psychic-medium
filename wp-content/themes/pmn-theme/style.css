@@ -501,3 +501,7 @@ a.pm-card:hover{box-shadow:var(--shadow-card);transform:translateY(-3px)}
 .hb-scope a:not(.wp-block-button__link){color:var(--gold-light);text-decoration:underline}
 /* the inlined homeblocks <style> sits in the body, so it wins a specificity tie */
 .hb-scope a.wp-block-button__link.hb-cta{color:#14102a!important}
+
+.site-footer .footer-instagram{display:inline-flex;align-items:center;gap:10px;margin-top:16px;color:var(--gold-light);text-decoration:none;font-weight:600}
+.site-footer .footer-instagram svg{display:block;flex:none;transition:transform .2s ease}
+.site-footer .footer-instagram:hover svg,.site-footer .footer-instagram:focus-visible svg{transform:rotate(12deg)}
