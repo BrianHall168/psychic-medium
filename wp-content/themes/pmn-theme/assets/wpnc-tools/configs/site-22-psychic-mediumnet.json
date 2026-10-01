@@ -1,0 +1,11 @@
+{
+  "id": "site-22-memorial-journal",
+  "type": "memorial_journal",
+  "theme": {"accent":"#667b65","accentStrong":"#435843","soft":"#f0f5ef"},
+  "eyebrow": "A private remembrance space",
+  "title": "Write a symbolic remembrance",
+  "intro": "Use a gentle prompt to record a memory, quality, or lesson you want to carry forward.",
+  "disclaimer": "For entertainment and self-reflection only. This journal does not contact spirits or confirm an afterlife. If grief feels overwhelming, consider speaking with a qualified professional.",
+  "symbols": [{"key":"candle","name":"Candle","message":"A candle can represent attention and care.","prompt":"What memory deserves a little light today?"},{"key":"garden","name":"Garden","message":"A garden can represent change that continues over time.","prompt":"What quality from this person would you like to help grow?"},{"key":"stone","name":"Stone","message":"A stone can represent steadiness and what remains meaningful.","prompt":"What lesson or value helps you feel grounded?"}],
+  "prompts": ["What small detail about them still brings warmth?","What quality would you like to carry forward?","What would you thank them for today?","Describe a place, sound, or ritual that helps you remember."]
+}
