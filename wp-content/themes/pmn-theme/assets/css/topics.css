@@ -1,0 +1,16 @@
+/* Додаткова навігація й читабельні тематичні сторінки. */
+.pmn-topics-nav{background:#f5efe5;border-bottom:1px solid #dfd1bb;color:#342d42}
+.pmn-topics-nav__inner{max-width:1180px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:center;gap:12px 24px;flex-wrap:wrap}
+.pmn-topics-nav__inner span{font-weight:700;font-size:12px;text-transform:uppercase;letter-spacing:.12em}
+.pmn-topics-nav a{font-size:14px;text-decoration:none;color:inherit;padding:3px 0;border-bottom:2px solid transparent}
+.pmn-topics-nav a:hover,.pmn-topics-nav a[aria-current=page]{border-color:#826335}
+.pmn-topics-nav a:focus-visible,.pmn-topic-links a:focus-visible{outline:2px solid #826335;outline-offset:4px}
+.pmn-topic-intro{max-width:720px;margin:20px auto 0;line-height:1.7;color:#f5e9d4}
+.pmn-topic-content{max-width:820px!important;padding-top:52px;padding-bottom:52px}
+.pmn-topic-content p{line-height:1.8;margin-bottom:28px}
+.pmn-topic-content h2{margin-top:36px;line-height:1.2}
+.pmn-topic-related{margin-top:48px;padding-top:20px;border-top:1px solid #dfd1bb}
+.pmn-topic-links{display:flex;flex-wrap:wrap;gap:12px}
+.pmn-topic-links a{padding:10px 16px;border:1px solid #d8c4a2;border-radius:4px;color:#46334c;text-decoration:none}
+@media(max-width:600px){.pmn-topics-nav__inner{padding:12px 16px;gap:10px 18px}.pmn-topics-nav__inner span{width:100%;text-align:center}.pmn-topic-content{padding:32px 20px}.pmn-topic-intro{font-size:16px}}
+@media print{.pmn-topics-nav,.pmn-topic-related{display:none}.pmn-topic-content{max-width:none!important}.pmn-topic-intro{color:#111}}
