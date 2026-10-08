@@ -1,0 +1,219 @@
+/* Читальна зала: тематичні добірки й доступний пошук. */
+.pmn-portal {
+    background: #f4eee4;
+    color: #302638;
+    padding:64px 0
+}
+.pmn-portal-heading {
+    display: flex;
+    align-items: end;
+    gap: 40px;
+    justify-content: space-between;
+    margin-bottom:32px
+}
+.pmn-portal-heading h2 {
+    font-family: 'Cormorant Garamond',serif;
+    font-size: clamp(38px,5vw,64px);
+    line-height: 1.05;
+    margin:12px 0 0
+}
+.pmn-portal-heading>p {
+    max-width: 340px;
+    font-size: 16px;
+    line-height:1.7
+}
+.pmn-portal-topics {
+    display: grid;
+    grid-template-columns: repeat(3,minmax(0,1fr));
+    gap: 0;
+    border-top:1px solid #c7b591
+}
+.pmn-portal-topics>a {
+    padding: 28px 26px;
+    text-decoration: none;
+    color: inherit;
+    border-bottom: 1px solid #c7b591;
+    border-right: 1px solid #c7b591;
+    display: flex;
+    flex-direction:column
+}
+.pmn-portal-topics>a:nth-child(3n) {
+    border-right:0
+}
+.pmn-portal-topics h3 {
+    font-family: 'Cormorant Garamond',serif;
+    font-size: 32px;
+    margin:0 0 12px
+}
+.pmn-portal-topics p {
+    font-size: 14px;
+    line-height: 1.8;
+    margin:0 0 18px
+}
+.pmn-portal-topics span {
+    margin-top: auto;
+    color: #6b4c25;
+    font-size: 13px;
+    font-weight:700
+}
+.pmn-portal-topics>a:hover {
+    background:#e8decc
+}
+.pmn-portal-bottom {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    gap: 56px;
+    margin-top:48px
+}
+.pmn-portal-bottom h3 {
+    font-family: 'Cormorant Garamond',serif;
+    font-size: 32px;
+    margin:0 0 20px
+}
+.pmn-portal-reading article {
+    padding: 16px 0;
+    border-bottom:1px solid #d5c8b3
+}
+.pmn-portal-reading article>a {
+    font-family: 'Cormorant Garamond',serif;
+    font-size: 25px;
+    color: inherit;
+    text-decoration:none
+}
+.pmn-portal-reading p {
+    font-size: 14px;
+    line-height: 1.7;
+    margin-top:8px
+}
+.pmn-portal-browse {
+    display: inline-block;
+    margin-top: 20px;
+    color:#684921
+}
+.pmn-portal-search {
+    padding: 28px;
+    background: #302638;
+    color: #f4eee4;
+    align-self:start
+}
+.pmn-portal-search label {
+    display: block;
+    font-size: 14px;
+    margin-bottom:10px
+}
+.pmn-portal-search-row {
+    display: flex;
+    gap:8px
+}
+.pmn-portal-search input {
+    min-width: 0;
+    width: 100%;
+    padding: 13px;
+    background: #fff;
+    color: #302638;
+    border: 1px solid #c7b591;
+    font:inherit
+}
+.pmn-portal-search button {
+    padding: 10px 16px;
+    background: #d9bf85;
+    color: #302638;
+    border: 0;
+    font: inherit;
+    cursor:pointer
+}
+.pmn-portal-search [role=status] {
+    font-size: 13px;
+    line-height: 1.6;
+    margin-top:14px
+}
+.pmn-portal-search ul {
+    list-style: none;
+    padding:0
+}
+.pmn-portal-search li {
+    padding: 12px 0;
+    border-top:1px solid #716276
+}
+.pmn-portal-search li a {
+    color: #f4eee4;
+    display:block
+}
+.pmn-portal-search li span {
+    font-size: 11px;
+    color:#d9bf85
+}
+.pmn-portal a:focus-visible,.pmn-portal input:focus-visible,.pmn-portal button:focus-visible {
+    outline: 3px solid #a6813b;
+    outline-offset:4px
+}
+@media(max-width:760px) {
+    .pmn-portal {
+        padding:40px 0
+    }
+    .pmn-portal-heading {
+        display:block
+    }
+    .pmn-portal-topics {
+        grid-template-columns:1fr 1fr
+    }
+    .pmn-portal-topics>a:nth-child(3n) {
+        border-right:1px solid #c7b591
+    }
+    .pmn-portal-topics>a:nth-child(2n) {
+        border-right:0
+    }
+    .pmn-portal-topics>a {
+        padding:22px 14px
+    }
+    .pmn-portal-bottom {
+        grid-template-columns: 1fr;
+        gap:32px
+    }
+}
+@media(max-width:430px) {
+    .pmn-portal-topics {
+        grid-template-columns:1fr
+    }
+    .pmn-portal-topics>a {
+        border-right:0!important
+    }
+    .pmn-portal-search {
+        padding:22px 16px
+    }
+    .pmn-portal-search-row {
+        flex-wrap:wrap
+    }
+    .pmn-portal-search button {
+        width:100%
+    }
+}
+
+/* Контраст і ширина незалежні від глобальних стилів заголовків теми. */
+.pmn-portal > .pm-wrap {
+    width: calc(100% - 48px);
+    max-width: 1240px;
+    margin: 0 auto;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.pmn-portal-heading h2,
+.pmn-portal-topics h3,
+.pmn-portal-reading h3 {
+    color: #302638;
+}
+
+.pmn-portal-search h3 {
+    color: #f4eee4;
+}
+
+.pmn-portal-heading .pm-eyebrow {
+    color: #684921;
+}
+
+@media (max-width: 760px) {
+    .pmn-portal > .pm-wrap {
+        width: calc(100% - 40px);
+    }
+}
