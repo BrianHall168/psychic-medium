@@ -1,0 +1,210 @@
+[
+  {
+    "path": "tarot/cards/major-arcana",
+    "title": "Major Arcana",
+    "intro": "Explore the 22 cards that frame broad questions about change, direction, and personal response.",
+    "sections": [
+      [
+        "A framework for larger themes",
+        "The Major Arcana is the group of 22 cards in a standard Tarot deck, commonly numbered from the Fool through the World. Readers often use them to reflect on broad experiences such as beginning, choosing, learning, and letting go. The order and numbering vary between traditions. A Major Arcana card is not evidence that a supernatural force is directing an event, and it does not automatically outweigh the practical details in a reading."
+      ],
+      [
+        "Read the image in its position",
+        "Begin with the question and the role assigned to the card. The same image can raise different questions in a position about a challenge and a position about support. Describe what you see before attaching a label. Compare at least two possible interpretations so a familiar keyword does not become a conclusion you never examine."
+      ],
+      [
+        "Begin with three distinct themes",
+        "Our starting entries cover the Fool, the Magician, and the High Priestess. Together they offer questions about starting, using available resources, and taking time to listen. Read each entry as a set of prompts rather than a prediction. Keep notes about which interpretation helps you understand your actual circumstances."
+      ],
+      [
+        "Keep scale in perspective",
+        "A striking card can make an ordinary problem feel enormous. Before acting, identify one practical issue and one step within your control. A card cannot establish a diagnosis, determine another person’s private intentions, or guarantee an outcome. Use qualified advice and factual information for consequential decisions."
+      ]
+    ]
+  },
+  {
+    "path": "tarot/cards/minor-arcana",
+    "title": "Minor Arcana",
+    "intro": "Learn how the four suits connect symbolic images with everyday questions and practical choices.",
+    "sections": [
+      [
+        "Four suits, 56 cards",
+        "The Minor Arcana consists of Wands, Cups, Swords, and Pentacles in many contemporary decks. Each suit has an Ace, cards Two through Ten, and four court cards. Some traditions use different suit names and illustrations. Check your deck’s booklet before assuming that a description from another system applies directly to your cards."
+      ],
+      [
+        "Use suits as questions",
+        "Wands often invite reflection on energy and initiative; Cups on emotion and connection; Swords on thought and tension; Pentacles on resources and daily effort. These associations are starting points. Ask how the visible scene relates to your question rather than assigning a fixed outcome based on the suit alone."
+      ],
+      [
+        "Numbers are useful, not absolute",
+        "An Ace can suggest potential, while later numbers may describe developing situations. But the individual picture matters. Court cards can represent roles or qualities as well as people; avoid treating them as proof of a person’s gender, age, or identity. A reading becomes clearer when you explain the connection you are making."
+      ],
+      [
+        "Study a small selection",
+        "Start with the Ace of Cups, Two of Swords, and Eight of Pentacles below. They offer different ways to examine emotional openness, a difficult choice, and steady practice. Record observations and possible actions. Revisit them against what actually happened, including details that did not fit your first interpretation."
+      ]
+    ]
+  },
+  {
+    "path": "tarot/cards/major-arcana/the-fool",
+    "title": "The Fool",
+    "intro": "Beginning with curiosity while considering what a first step needs.",
+    "sections": [
+      [
+        "Look at the beginning",
+        "In many illustrated decks, the Fool appears as a traveler setting out with little baggage. Notice the direction of movement, the surrounding landscape, and any sign of risk or companionship. Your deck may depict the scene differently. Rather than assuming the image guarantees a fresh start, ask what beginning is already available in your circumstances."
+      ],
+      [
+        "An upright reflection",
+        "The Fool can prompt questions about openness, experimentation, and the willingness to learn without having every answer. For a new project, consider the smallest useful trial: a conversation, a draft, or a short practice session. Curiosity is more helpful when you also check the resources and responsibilities involved. A leap of faith is not a reason to ignore known hazards."
+      ],
+      [
+        "A reversed reflection",
+        "If you use reversals, consider whether impulsiveness or fear of starting is shaping your response. These are alternative possibilities, not a diagnosis. You might need a safety check before acting, or you might be waiting for certainty no ordinary beginning can provide. Compare both interpretations with the actual situation."
+      ],
+      [
+        "Relationships and daily work",
+        "In relationships, this card may invite a fresh conversation or curiosity about an unfamiliar perspective. It cannot reveal whether someone secretly loves you. At work, explore a beginner’s approach without abandoning commitments. Ask: “What could I test safely?” and “What do I need to learn before proceeding?”"
+      ],
+      [
+        "A practical exercise",
+        "Write one beginning you are considering. List what attracts you, one foreseeable risk, and one small reversible step. Choose a date to review the result. If the interpretation increases pressure to take a major financial, legal, or medical risk, set the cards aside and seek qualified information."
+      ]
+    ]
+  },
+  {
+    "path": "tarot/cards/major-arcana/the-magician",
+    "title": "The Magician",
+    "intro": "Notice the skills, tools, and attention you can bring to a practical intention.",
+    "sections": [
+      [
+        "Observe the tools",
+        "Many decks portray the Magician with objects associated with the four suits. Notice which tools are present and how the figure directs attention. The image can help you inventory resources rather than promise that thought alone will produce an outcome. Different artwork may emphasize communication, preparation, or performance."
+      ],
+      [
+        "An upright reflection",
+        "Consider the relationship between intention and action. What can you already do, and which resource is unused? A project might need a clearer plan, a practiced skill, or a request for help. Confidence is useful when it is connected to preparation. The card does not establish exceptional powers or guarantee success."
+      ],
+      [
+        "A reversed reflection",
+        "A reversal may invite you to examine scattered effort, overpromising, or a gap between what is said and what is done. Do not use it as proof that another person is manipulating you. Identify observable behavior and check information before forming a conclusion. It may simply prompt you to simplify your own commitments."
+      ],
+      [
+        "Relationships and daily work",
+        "In relationships, focus on clear communication and following through on what you offer. At work, inventory time, knowledge, and tools before adding new tasks. Ask whether a polished presentation is matched by practical substance. A useful interpretation produces something you can verify, not a claim about hidden motives."
+      ],
+      [
+        "A practical exercise",
+        "Write an intention and list three resources you already have. Choose one specific action using those resources, then define what a useful result would look like. Review your progress honestly, including barriers outside your control. For consequential decisions, use evidence and appropriate professional advice alongside any reflection."
+      ]
+    ]
+  },
+  {
+    "path": "tarot/cards/major-arcana/the-high-priestess",
+    "title": "The High Priestess",
+    "intro": "Make room for observation, uncertainty, and the difference between an impression and a fact.",
+    "sections": [
+      [
+        "Notice what is revealed",
+        "In many decks, the High Priestess is seated between contrasting elements or near a veil. Describe the visible contrasts and the areas left unclear. The picture can invite patience and attention. It does not prove that you have discovered a hidden truth or that an unexplained feeling must be accurate."
+      ],
+      [
+        "An upright reflection",
+        "Ask what deserves quiet observation before a decision. You might need time to notice a pattern, name an emotion, or gather information. An intuitive impression can be recorded as a possibility. Keep it separate from verified evidence so curiosity does not turn into certainty without a reason."
+      ],
+      [
+        "A reversed reflection",
+        "If you read reversals, consider whether noise, urgency, or avoidance is making it hard to listen to yourself. Another possibility is that you are relying too heavily on an impression while overlooking available facts. Compare these possibilities with your circumstances rather than forcing one into a fixed meaning."
+      ],
+      [
+        "Relationships and daily work",
+        "A relationship reading may invite listening and direct questions rather than guessing another person’s thoughts. In work, review what you know, what you assume, and what you still need to ask. Silence can be useful, but it should not prevent necessary communication or requests for support."
+      ],
+      [
+        "A practical exercise",
+        "Divide a page into observations, impressions, and unanswered questions. Put each statement in the appropriate column. Choose one question you can investigate safely. If waiting would delay needed medical care or another urgent practical response, follow qualified guidance rather than using the card to justify postponement."
+      ]
+    ]
+  },
+  {
+    "path": "tarot/cards/minor-arcana/ace-of-cups",
+    "title": "Ace of Cups",
+    "intro": "Explore emotional openness without treating a hopeful image as a guaranteed relationship outcome.",
+    "sections": [
+      [
+        "Observe the image",
+        "An Ace of Cups often depicts a cup, water, or an offering. Describe how the image suggests fullness, movement, or receptivity. Your deck may use a different scene. An Ace is commonly read as potential, so ask what emotional possibility is available rather than what the picture promises will happen."
+      ],
+      [
+        "An upright reflection",
+        "Consider whether there is room for kindness, creativity, or a more honest account of how you feel. An opportunity may be small: a conversation, a creative activity, or accepting support. Emotional openness does not require trusting everyone equally. Keep your boundaries and assess how a person actually treats you."
+      ],
+      [
+        "A reversed reflection",
+        "A reversal can prompt questions about depleted energy, feelings that are difficult to express, or giving more than you can sustain. These possibilities should be checked against your experience. The card does not diagnose a mental health condition or establish that a relationship is doomed."
+      ],
+      [
+        "Relationships and daily work",
+        "For a relationship question, name the kind of connection you want and what respectful communication would look like. The card cannot confirm a pregnancy, a soulmate, or another person’s private feelings. At work, it may invite attention to a creative or supportive aspect of the task without replacing practical planning."
+      ],
+      [
+        "A practical exercise",
+        "Write one feeling, one need, and one boundary. Choose a small action that honors all three, such as asking for time to talk or making space for a creative activity. If distress persists or affects daily functioning, seek appropriate professional support; a card interpretation is not a substitute for care."
+      ]
+    ]
+  },
+  {
+    "path": "tarot/cards/minor-arcana/two-of-swords",
+    "title": "Two of Swords",
+    "intro": "Examine a difficult choice by distinguishing missing information from competing priorities.",
+    "sections": [
+      [
+        "Observe the tension",
+        "Many illustrated decks show a seated figure with crossed swords and restricted sight. Notice the posture, surroundings, and sense of stillness. The image can raise questions about a pause or a conflict, but it does not determine which option is right. Begin by describing the choice in ordinary language."
+      ],
+      [
+        "An upright reflection",
+        "Ask whether you are balancing two priorities or delaying a decision because information is missing. A pause can be constructive if it has a purpose. Identify what you need to learn and how long it is reasonable to wait. Do not assume every difficult choice has only two possible responses."
+      ],
+      [
+        "A reversed reflection",
+        "A reversal may invite you to examine overload, rushed judgment, or the cost of continued avoidance. These are possible prompts rather than warnings of inevitable conflict. If there is pressure to decide, distinguish a real deadline from someone else’s demand for an immediate answer."
+      ],
+      [
+        "Relationships and daily work",
+        "In a relationship, use direct conversation and observable behavior rather than asking the cards to choose whom to trust. At work, write the criteria for a decision before comparing options. For legal, medical, or financial choices, get the relevant professional information instead of relying on a symbolic tie-breaker."
+      ],
+      [
+        "A practical exercise",
+        "List the options, the facts you know, and the facts still missing. Add a third option if one exists, such as asking for more time. Choose one information-gathering step. Review whether the pause is helping you make a decision or merely repeating the same uncertainty."
+      ]
+    ]
+  },
+  {
+    "path": "tarot/cards/minor-arcana/eight-of-pentacles",
+    "title": "Eight of Pentacles",
+    "intro": "Reflect on practice, feedback, and the difference between useful effort and endless repetition.",
+    "sections": [
+      [
+        "Observe the work",
+        "Many decks depict a person repeating a craft or working on several pentacles. Notice concentration, tools, and what appears finished. The image can help you consider the process of learning. It does not guarantee that effort will produce money or recognition, especially when circumstances lie outside your control."
+      ],
+      [
+        "An upright reflection",
+        "Ask which skill needs deliberate practice and what useful feedback would look like. Repetition helps when you notice errors and adjust your method. A focused short session can be more useful than a long session without a goal. Choose one part of the task you can improve rather than demanding immediate mastery."
+      ],
+      [
+        "A reversed reflection",
+        "If you use reversals, examine perfectionism, boredom, or effort spent on the wrong task. These possibilities can point in different directions. You might need rest, a clearer purpose, or a different method. Do not turn the card into an accusation that a setback proves you did not work hard enough."
+      ],
+      [
+        "Relationships and daily work",
+        "In relationships, consider consistent care and communication rather than treating another person as a project to fix. At work, compare practice with the actual requirements of the role. Clarify expectations and ask for feedback. Effort matters, but resources, opportunities, and fair treatment also shape outcomes."
+      ],
+      [
+        "A practical exercise",
+        "Choose one skill and set a modest practice goal. Record what you tried, one piece of feedback, and one adjustment for next time. Include a stopping point so practice does not consume necessary rest. For financial planning or health concerns, use qualified advice and evidence rather than interpreting the card as a promise."
+      ]
+    ]
+  }
+]
