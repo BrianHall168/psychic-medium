@@ -1,0 +1,27 @@
+/* Лише інструмент фаз Місяця. */
+.pmn-moon-tool {
+    background: #302638;
+    color: #f4eee4;
+    padding: 28px;
+    margin: 32px 0;
+}
+.pmn-moon-tool h2 { color: #f4eee4; }
+.pmn-moon-tool label { display: block; margin-bottom: 10px; }
+.pmn-moon-controls { display: flex; flex-wrap: wrap; gap: 12px; }
+.pmn-moon-controls input,
+.pmn-moon-controls button {
+    font: inherit;
+    padding: 12px;
+    min-height: 44px;
+    min-width: 0;
+    border: 1px solid #c7b591;
+    border-radius: 0;
+}
+.pmn-moon-controls input { background: #fff; color: #302638; }
+.pmn-moon-controls button { background: #d9bf85; color: #302638; cursor: pointer; }
+.pmn-moon-tool :focus-visible { outline: 3px solid #d9bf85; outline-offset: 4px; }
+.pmn-moon-tool [role="status"] { margin-top: 20px; line-height: 1.8; }
+@media (max-width: 480px) {
+    .pmn-moon-tool { padding: 20px 16px; }
+    .pmn-moon-controls > * { width: 100%; box-sizing: border-box; }
+}

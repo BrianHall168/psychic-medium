@@ -1,0 +1,40 @@
+[
+  {
+    "path": "moon",
+    "title": "Moon phases: a practical introduction",
+    "intro": "Explore the cycle of lunar phases and try a simple approximate calculator.",
+    "sections": [
+      [
+        "What changes during the cycle",
+        "The Moon reflects sunlight. As its position relative to Earth and the Sun changes, we see different portions of its sunlit half. The familiar sequence runs from new Moon through waxing phases to full Moon, then through waning phases toward the next new Moon. Waxing means the illuminated portion is increasing; waning means it is decreasing."
+      ],
+      [
+        "Eight useful labels",
+        "New Moon, waxing crescent, first quarter, waxing gibbous, full Moon, waning gibbous, last quarter, and waning crescent describe the cycle. These labels are a guide to appearance, not eight equal periods of astronomical motion. A quarter Moon has roughly half its visible disk illuminated; the name refers to progress through the cycle."
+      ],
+      [
+        "Try a date",
+        "Our phase calculator estimates the cycle at 12:00 UTC on your selected date using a fixed mean month. It offers approximate lunar age and illumination for learning. Use the linked NASA phase tables when you need calculated event times. This tool does not determine Moon signs, visibility, moonrise, or moonset."
+      ]
+    ]
+  },
+  {
+    "path": "moon/phase-calculator",
+    "title": "Approximate Moon phase calculator",
+    "intro": "Choose a UTC date to estimate the lunar phase, age, and illuminated fraction.",
+    "sections": [
+      [
+        "How the estimate works",
+        "The calculator counts elapsed days from the reference new Moon on 6 January 2000 at 18:14 Universal Time, using a fixed mean synodic month of 29.530588 days. It evaluates your chosen calendar date at 12:00 UTC. Illumination uses a simplified cosine model; lunar age means position within this model cycle, not elapsed time since a calculated recent new Moon."
+      ],
+      [
+        "Understand the limits",
+        "Actual lunations vary. This mean-cycle model does not calculate orbital perturbations, so its phase label, age, and illumination can differ from an astronomical ephemeris, particularly near phase boundaries. It is an educational approximation throughout the supported range 1900–2100, with no guaranteed accuracy. It does not calculate Moon signs, rise/set times, eclipses, or local visibility."
+      ],
+      [
+        "Read the labels",
+        "The eight labels use equal model sectors centered on new, quarter, and full phases. A boundary belongs to the next sector. This is a presentation convention, not the exact moment of an astronomical phase event. Use the NASA tables for precise phase times rather than planning observations from this estimate."
+      ]
+    ]
+  }
+]
