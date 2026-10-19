@@ -1,0 +1,8 @@
+/* Клавіатурна навігація та приховане мобільне меню. */
+#pmnMobileNav[hidden]{display:none!important}
+.pmn-skip-link{position:fixed;top:8px;left:12px;transform:translateY(-160%);z-index:10001;background:#fff;color:#241e3c;padding:12px 18px}
+.pmn-skip-link:focus{transform:none}
+#pmnCloseMenu{align-self:flex-start;background:#ead7af;color:#241e3c;border:1px solid #94703e;padding:12px 18px;font:inherit;min-height:44px;cursor:pointer}
+a:focus-visible,button:focus-visible,input:focus-visible{outline:3px solid #a47732;outline-offset:4px}
+#main-content:focus{outline:none}
+@media(prefers-reduced-motion:reduce){.mobile-nav,.pmn-mobile-overlay{transition:none!important}html{scroll-behavior:auto!important}}

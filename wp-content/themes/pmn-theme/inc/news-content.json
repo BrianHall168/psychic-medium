@@ -1,0 +1,53 @@
+{
+  "marker": "pmn-news-pages-v1",
+  "pages": [
+    {
+      "path": "news",
+      "title": "News and site updates",
+      "intro": "A dated record of new learning tools and guides published on Psychic Medium. Each update links to the feature it describes.",
+      "published": "2026-10-19",
+      "sections": [
+        ["How to use this archive", "Entries describe changes to this website and link to the relevant live pages. Dates identify when a feature was released and when this update was published; they do not imply a prediction or a new astrological event."],
+        ["Moon phase tool", "Published 19 October 2026 · Feature released 16 October 2026. A short update about the approximate Moon phase calculator and its accompanying guide."],
+        ["Beginner learning routes", "Published 19 October 2026 · Feature released 15 October 2026. A short update about the step-by-step routes in Manifestation and Spirituality."]
+      ]
+    },
+    {
+      "path": "news/moon-phase-tool",
+      "title": "Moon phase guide and calculator released",
+      "intro": "A site update about the Moon phase learning guide and approximate date calculator published on 16 October 2026.",
+      "published": "2026-10-19",
+      "event": "2026-10-16",
+      "sections": [
+        ["What was added", "On 16 October 2026, Psychic Medium published a Moon guide and an approximate phase calculator. The guide introduces the cycle and explains what the calculator can and cannot estimate."],
+        ["How the calculator is framed", "The tool estimates a phase at 12:00 UTC using a fixed mean synodic cycle. It is an educational approximation, not a precise ephemeris, a visibility forecast, or a calculation of the Moon's zodiac sign."],
+        ["Where to explore it", "Read the <a href=\"https://psychic-medium.net/moon/\">Moon phase guide</a> or try the <a href=\"https://psychic-medium.net/moon/phase-calculator/\">approximate Moon phase calculator</a>. These feature pages are the primary sources for the tool's scope and method."]
+      ]
+    },
+    {
+      "path": "news/beginner-learning-routes",
+      "title": "Beginner learning routes published",
+      "intro": "A site update about new step-by-step learning routes in Manifestation and Spirituality, published on 15 October 2026.",
+      "published": "2026-10-19",
+      "event": "2026-10-15",
+      "sections": [
+        ["What was added", "On 15 October 2026, Psychic Medium published beginner routes for Manifestation and Spirituality. Each route organizes three original guides in a suggested order and includes practical examples, an exercise, and a way to check understanding."],
+        ["Choose a route", "Start with the <a href=\"https://psychic-medium.net/manifestation/\">Manifestation learning route</a> or the <a href=\"https://psychic-medium.net/spirituality/\">Spirituality learning route</a>. Each overview links to its own lessons; follow the sequence or open the topic that answers your current question."],
+        ["What the routes are for", "The routes are learning aids, not promises of outcomes. Reflective and spiritual practices can be interpreted differently, so readers can adapt an exercise or skip it when it is not useful to them."]
+      ]
+    },
+    {
+      "path": "editorial-policy",
+      "title": "Editorial policy",
+      "intro": "How Psychic Medium dates, sources, and corrects its original educational and reflective material.",
+      "published": "2026-10-19",
+      "sections": [
+        ["Original material and reflection", "Psychic Medium publishes original explanatory guides, learning exercises, and reflective interpretations. Spiritual or symbolic interpretations are presented as perspectives for reflection, not established facts or guaranteed outcomes."],
+        ["Sources and claims", "When a page makes a factual claim that benefits from external verification, it should link to a relevant source. Site updates link directly to the feature they describe. A link supports the specific point stated; it does not imply endorsement of the site's interpretations."],
+        ["Publication and event dates", "Pages display dates to distinguish when an update was published from when a site feature was released. A date records the site's publication history and does not certify the truth of a spiritual interpretation."],
+        ["Corrections and revisions", "Factual errors, broken source links, and unclear descriptions should be corrected when identified. Material revisions should receive an updated date when appropriate. The correction should preserve the distinction between sourced information and personal or symbolic interpretation."],
+        ["Publisher", "Publisher: Psychic Medium."]
+      ]
+    }
+  ]
+}

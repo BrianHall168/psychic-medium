@@ -1,0 +1,128 @@
+[
+  {
+    "path": "discovery",
+    "title": "Discovery: independent public resources",
+    "intro": "Explore an editorial reference directory, beginning with public mediumship resources.",
+    "sections": [
+      [
+        "A reference directory",
+        "Discovery brings together concise descriptions of independent public resources and links to their official sites. Start with the mediums category to compare how public figures describe their work and what material their sites publish. The category describes the subject matter; it is not a ranking or an assessment of claimed abilities."
+      ],
+      [
+        "How to read an entry",
+        "Each profile identifies its primary sources and the date they were checked. Descriptions of mediumship are attributed to the person or their own website. Inclusion does not establish certification, accuracy, affiliation, or endorsement. Current availability, prices, and terms should be checked directly with the source; this directory does not arrange bookings."
+      ],
+      [
+        "Keep your judgment involved",
+        "A public profile cannot guarantee contact with a deceased person or a particular result. Read claims carefully and keep professional medical, legal, and financial advice separate from spiritual material. You can explore a website without purchasing a service or sharing personal information."
+      ]
+    ],
+    "checked": "2026-10-19"
+  },
+  {
+    "path": "discovery/mediums",
+    "title": "Independent public mediums: reference directory",
+    "intro": "Three source-linked profiles of people who publicly describe their work in mediumship.",
+    "sections": [
+      [
+        "Browse self-described practitioners",
+        "This starting collection includes James Van Praagh, Suzanne Giesemann, and John Edward. Their official websites discuss mediumship alongside other public resources. The profiles summarize what those sites present, using original descriptions and direct source links rather than reproducing promotional claims as established facts."
+      ],
+      [
+        "Compare the kind of material",
+        "An event, a book, an educational resource, and a private session serve different purposes. Look at the format described by the official site before deciding whether it fits your interest. A listing here does not indicate present availability or a recommendation to buy. No ratings or verified-ability badges are assigned."
+      ],
+      [
+        "A separate directory",
+        "These are independent external figures, not members of this website’s reader list. The existing Our Mediums page remains a separate part of the site. Use the source links to research each public figure directly; do not assume they work with Psychic Medium or endorse this directory."
+      ]
+    ],
+    "checked": "2026-10-19"
+  },
+  {
+    "path": "discovery/mediums/james-van-praagh",
+    "title": "James Van Praagh: independent public profile",
+    "intro": "An editorial reference to his self-described mediumship and official public resources.",
+    "sections": [
+      [
+        "How the official site presents his work",
+        "James Van Praagh’s official website describes him as a psychic medium and uses the description Spiritual Evidential Medium. This profile records his self-presentation; it does not independently establish the claimed ability or the site’s statements about an afterlife."
+      ],
+      [
+        "Public material to explore",
+        "The official navigation includes live events, books and cards, a blog, videos, and a linked school. These formats give you different ways to examine his published approach before considering any purchase. We do not confirm current session availability, course quality, or outcomes."
+      ],
+      [
+        "Reading this listing",
+        "This is an independent reference listing, not a booking page or an endorsement. James Van Praagh is not presented as a member of our reader list. Review any practical terms directly on his official site and distinguish his spiritual claims from independently established evidence."
+      ]
+    ],
+    "sources": [
+      {
+        "title": "James Van Praagh: official website",
+        "url": "https://vanpraagh.com/"
+      }
+    ],
+    "checked": "2026-10-19"
+  },
+  {
+    "path": "discovery/mediums/suzanne-giesemann",
+    "title": "Suzanne Giesemann: independent public profile",
+    "intro": "An editorial reference to her official mediumship and spiritual-learning resources.",
+    "sections": [
+      [
+        "How the official site presents her work",
+        "Suzanne Giesemann’s official biography presents her as a spiritual teacher and author and describes her work in readings and mediumship classes. Those descriptions are self-reported. This listing does not validate claims about receiving messages from spirit or certify her ability."
+      ],
+      [
+        "Public material to explore",
+        "Her official website includes books, courses, events, meditation resources, a podcast, and material organized around mediumship development. The biography also discusses her writing and documentary work. These are descriptions of the public material available through her site, not an assessment of its effectiveness or a guarantee of availability."
+      ],
+      [
+        "Reading this listing",
+        "Suzanne Giesemann is an independent external figure, not a reader affiliated with this website. Follow the official sources to examine her approach and current terms. Spiritual material should not be treated as a substitute for appropriate professional care or as proof of a specific supernatural claim."
+      ]
+    ],
+    "sources": [
+      {
+        "title": "Suzanne Giesemann: official website",
+        "url": "https://suzannegiesemann.com/"
+      },
+      {
+        "title": "Suzanne Giesemann: official biography",
+        "url": "https://suzannegiesemann.com/about-suzanne/"
+      }
+    ],
+    "checked": "2026-10-19"
+  },
+  {
+    "path": "discovery/mediums/john-edward",
+    "title": "John Edward: independent public profile",
+    "intro": "An editorial reference to his self-described mediumship and official public information.",
+    "sections": [
+      [
+        "How the official site presents his work",
+        "John Edward’s official website identifies him as a psychic medium. Its biography describes him as an author and lecturer and discusses his television work, including Crossing Over with John Edward and John Edward Cross Country. Claims about communicating with deceased people remain the site’s own claims, not findings of this directory."
+      ],
+      [
+        "Public material to explore",
+        "His official navigation includes events, private readings, a store, and Evolve+. The biography describes Evolve+ as a digital platform and online community. Check the official site for the format, availability, and terms of any offering; this profile does not arrange sessions or promise a personal reading."
+      ],
+      [
+        "Reading this listing",
+        "John Edward is not affiliated with this website’s reader list. His official biography explicitly states that his office does not endorse other websites containing information about him. This independent source-linked profile should therefore not be understood as authorized by him or as an endorsement of Psychic Medium."
+      ]
+    ],
+    "sources": [
+      {
+        "title": "John Edward: official website",
+        "url": "https://johnedward.net/"
+      },
+      {
+        "title": "John Edward: official biography",
+        "url": "https://johnedward.net/about/"
+      }
+    ],
+    "checked": "2026-10-19"
+  }
+]
