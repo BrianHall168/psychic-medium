@@ -1,0 +1,72 @@
+{
+  "marker": "pmn-independent-medium-profiles-vone",
+  "source_checked": "2026-10-20",
+  "profiles": [
+    {
+      "slug": "ashliangel",
+      "name": "AshliAngel",
+      "role": "Mediumship, relationships and tarot",
+      "image": "medium-ashliangel.webp",
+      "source_url": "https://www.kasamba.com/psychic/ashliangel/",
+      "summary": "AshliAngel describes an approach that combines mediumship, tarot and relationship guidance, with particular attention to heartbreak and reconciliation.",
+      "about": "On her public Kasamba profile, AshliAngel describes herself as an empathic clairvoyant. She says she works with mediumship, tarot and angel-themed readings and focuses on questions about love and life direction. These are her own descriptions of her practice, not independently verified credentials or outcomes.",
+      "specialties": ["Mediumship", "Relationships", "Tarot", "Angel-themed readings"],
+      "questions": ["What would I like to understand about this relationship?", "Am I seeking spiritual reflection, practical options, or both?"]
+    },
+    {
+      "slug": "bea-medium",
+      "name": "Bea Medium",
+      "role": "Spirit messages and life questions",
+      "image": "medium-bea-medium.webp",
+      "source_url": "https://www.kasamba.com/psychic/bea-medium/",
+      "summary": "Bea Medium's public profile describes spirit-led readings across relationships, career decisions and questions involving pets.",
+      "about": "Bea Medium says she works with messages from spirit and welcomes questions about relationships, career changes, finances and pets. Her public description emphasizes a nonjudgmental conversation. The site has not independently tested these claims or any specific result.",
+      "specialties": ["Mediumship", "Relationships", "Career questions", "Pets"],
+      "questions": ["What is the main question I want to explore?", "What information would help me make my own decision afterward?"]
+    },
+    {
+      "slug": "jaya-heart",
+      "name": "Jaya Heart",
+      "role": "Mediumship, relationships and life purpose",
+      "image": "medium-jaya-heart.webp",
+      "source_url": "https://www.kasamba.com/psychic/jaya-heart/",
+      "summary": "Jaya Heart presents her work as compassionate psychic mediumship focused on matters of the heart, career and life purpose.",
+      "about": "Jaya Heart's public Kasamba description identifies her as a psychic medium and names relationships, career and life purpose as her main areas of focus. The profile is brief, so we do not add a personal history or methods that she has not published there.",
+      "specialties": ["Mediumship", "Relationships", "Career", "Life purpose"],
+      "questions": ["Which part of my situation feels least clear right now?", "What would a useful conversation help me reflect on?"]
+    },
+    {
+      "slug": "laveau",
+      "name": "Laveau",
+      "role": "Mediumship, tarot and Reiki",
+      "image": "medium-laveau.webp",
+      "source_url": "https://www.kasamba.com/psychic/laveau/",
+      "summary": "Laveau describes a practice spanning mediumship, clairvoyance, clairaudience, tarot and Reiki.",
+      "about": "In her public profile, Laveau describes herself as a psychic medium and lists clairvoyance, clairaudience, Reiki and tarot among her methods. These are self-reported specializations. A reading cannot promise contact with a particular person or a guaranteed outcome.",
+      "specialties": ["Mediumship", "Tarot", "Reiki", "Clairvoyance"],
+      "questions": ["Would I prefer a tarot-led or mediumship-focused discussion?", "Are there topics or boundaries I want to set before a session?"]
+    },
+    {
+      "slug": "psychic-carole",
+      "name": "Psychic Carole",
+      "role": "Spirit-led guidance and life decisions",
+      "image": "medium-psychic-carole.webp",
+      "source_url": "https://www.kasamba.com/psychic/psychic-carole/",
+      "summary": "Psychic Carole describes mediumship-based spiritual guidance for questions about life direction and choices.",
+      "about": "Psychic Carole's public profile describes spirit-led guidance about specific areas of life and possible outcomes of a current course. Predictions are her own claims and should be considered reflective, not certain. Her public description does not provide enough detail to state formats, prices or availability here.",
+      "specialties": ["Mediumship", "Spiritual reflection", "Life choices"],
+      "questions": ["What decision am I considering?", "Which real-world facts should I check independently?"]
+    },
+    {
+      "slug": "seye-roots",
+      "name": "Seye Roots",
+      "role": "Mediumship, tarot and dreams",
+      "image": "medium-seye-roots.webp",
+      "source_url": "https://www.kasamba.com/psychic/seye-roots/",
+      "summary": "Seye Roots says she combines mediumship and tarot with dream interpretation and crystal-themed readings.",
+      "about": "Seye Roots describes herself as a psychic medium. Her public profile lists mediumship, tarot, dream interpretation and crystal-energy readings. We summarize those stated interests without claiming that any interpretation can establish a fact or predict an outcome.",
+      "specialties": ["Mediumship", "Tarot", "Dream interpretation", "Crystal-themed readings"],
+      "questions": ["Is my question about a memory, a dream, or a current choice?", "What could help me reflect without depending on a prediction?"]
+    }
+  ]
+}
