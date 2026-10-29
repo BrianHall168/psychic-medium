@@ -1,0 +1,27 @@
+/* Короткий AI-діалог і видимий перехід після двох відповідей. */
+.pmn-ai-layout{max-width:900px!important;padding-top:48px;padding-bottom:64px}
+.pmn-ai-copy{max-width:760px;margin:0 auto 36px;line-height:1.8}
+.pmn-ai-copy h2{margin-top:32px}
+.pmn-ai-card{background:#fffaf2;border:1px solid #e1d4bd;border-radius:18px;padding:32px;box-shadow:0 16px 38px rgba(25,20,46,.09)}
+.pmn-ai-card [hidden]{display:none!important}
+.pmn-ai-card h2{margin:0 0 12px}
+.pmn-ai-note{font-size:15px;color:#514b58;line-height:1.65}
+.pmn-ai-transcript{display:grid;gap:14px;min-height:100px;margin:24px 0;padding:20px;background:#f5f0e8;border-radius:12px}
+.pmn-ai-message{max-width:85%;margin:0!important;padding:14px 18px;border-radius:15px;line-height:1.65;white-space:pre-wrap;overflow-wrap:anywhere}
+.pmn-ai-card .pmn-ai-message--guide{background:#fff;color:#342d42;border:1px solid #e4dac9}
+.pmn-ai-card .pmn-ai-message--visitor{justify-self:end;background:#493951;color:#fff}
+.pmn-ai-suggestions{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:22px}
+.pmn-ai-suggestions button{background:#fff;border:1px solid #c6b99e;border-radius:20px;color:#46334c;padding:8px 12px;cursor:pointer}
+.pmn-ai-form label{display:block;margin-bottom:8px;font-weight:700}
+.pmn-ai-form textarea{display:block;width:100%;box-sizing:border-box;border:1px solid #ac9d89;border-radius:10px;padding:14px;font:inherit;resize:vertical;background:#fff;color:#282533}
+.pmn-ai-form-actions{display:flex;align-items:center;justify-content:space-between;gap:18px;margin-top:14px;flex-wrap:wrap}
+.pmn-ai-count{font-size:14px;color:#514b58}
+.pmn-ai-form-actions button,.pmn-ai-cta{display:inline-block;border:0;border-radius:8px;padding:13px 22px;background:#74533a;color:#fff!important;text-decoration:none;font:inherit;font-weight:700;cursor:pointer}
+.pmn-ai-form-actions button:hover,.pmn-ai-cta:hover{background:#5c402d}
+.pmn-ai-form-actions button:disabled{opacity:.6;cursor:wait}
+.pmn-ai-error{margin:14px 0 0;color:#8a2432}
+.pmn-ai-next{margin-top:24px;padding:22px;border:1px solid #c9b68c;background:#f6eddb;border-radius:12px}
+.pmn-ai-next p{margin:0 0 14px!important}
+.pmn-ai-card :focus-visible{outline:3px solid #826335;outline-offset:3px}
+@media(max-width:600px){.pmn-ai-layout{padding:32px 18px}.pmn-ai-card{padding:20px}.pmn-ai-message{max-width:100%}}
+@media print{.pmn-ai-card{box-shadow:none}.pmn-ai-form,.pmn-ai-suggestions{display:none}}

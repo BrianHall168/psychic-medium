@@ -1,6 +1,7 @@
 {
   "spirituality": {
     "title": "Spirituality",
+    "image_alt": "Open reflection journal and candle beside a window at sunrise",
     "intro": "Build a spiritual practice that fits ordinary life. Explore attention, meaning, and connection through simple activities you can adapt to your own beliefs.",
     "sections": [
       [
@@ -23,6 +24,7 @@
   },
   "tarot": {
     "title": "Tarot",
+    "image_alt": "Tarot cards arranged on a dark table in warm light",
     "intro": "Use Tarot as a language of images and questions. Learn the structure of a deck and begin with a thoughtful reading that supports your own judgment.",
     "sections": [
       [
@@ -45,6 +47,7 @@
   },
   "angel-numbers": {
     "title": "Angel Numbers",
+    "image_alt": "Analog clock and blank journal on a sunlit table",
     "intro": "Explore six often-noticed number patterns as reflective prompts. Their symbolism varies across traditions; use any meaning to ask a useful question, not to predict an outcome or replace evidence.",
     "sections": [
       [
@@ -67,6 +70,7 @@
   },
   "astrology": {
     "title": "Astrology",
+    "image_alt": "Antique celestial globe and star chart in warm light",
     "intro": "Explore the symbols of astrology and the basic parts of a birth chart. Use the language as a reflection tool while leaving room for individual experience.",
     "sections": [
       [
@@ -84,11 +88,28 @@
       [
         "Respect differences",
         "Astrological traditions use different systems, including different zodiac and house methods. Two charts may therefore produce different labels. When comparing interpretations, first check which system each uses. In relationships, ask someone about their actual needs and behavior rather than treating a zodiac sign as a verdict about compatibility."
+      ],
+      [
+        "How signs, elements, and modalities fit together",
+        "In Western tropical astrology, each of the twelve signs is paired with an element and a modality. Fire, earth, air, and water are symbolic groupings; cardinal, fixed, and mutable describe a traditional pattern of starting, sustaining, or adapting. These labels offer different questions to ask about a situation. They do not measure temperament or establish how someone will behave."
+      ],
+      [
+        "Read a placement in context",
+        "A Sun-sign profile is one entry point, not a complete birth-chart reading. A placement has a planet, sign, and often a house; astrologers also look at relationships between placements. If birth time is unknown, the rising sign and houses may be uncertain. Say what information you have and which part of an interpretation depends on the missing detail."
+      ],
+      [
+        "Compare traditions before comparing results",
+        "A tropical chart and a sidereal chart can give different sign labels because they use different reference points. House systems can also change where topics are placed in a chart. When two readings disagree, ask which system and birth details each used. Then focus on the questions that help you reflect, rather than treating either label as a fact about your character."
+      ],
+      [
+        "A five-minute chart reflection",
+        "Choose one placement or sign profile. Note one description that resonates and one that does not. Write a recent example for each, then form one practical question: what could I try, ask, or observe this week? Revisit the result later. A symbolic reading is most useful when it leaves room for real experience to correct it."
       ]
     ]
   },
   "dreams": {
     "title": "Dreams",
+    "image_alt": "Open dream journal beside a bed and a dusky window",
     "intro": "Explore your dreams through careful notes and personal associations. A dream journal can reveal recurring themes without requiring a fixed meaning for every image.",
     "sections": [
       [
@@ -111,6 +132,7 @@
   },
   "manifestation": {
     "title": "Manifestation",
+    "image_alt": "Blank notebook and pencil by an open window at sunrise",
     "intro": "Turn an intention into a practical plan. Pair reflection and imagination with actions, feedback, and realistic expectations about what you can influence.",
     "sections": [
       [

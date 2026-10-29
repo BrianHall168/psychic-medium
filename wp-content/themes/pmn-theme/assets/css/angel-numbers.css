@@ -1,0 +1,36 @@
+/* Ілюстрації та інтерактив довідника чисел ангелів. */
+.pmn-angel-enhanced{margin:0 0 2.5rem}
+.pmn-angel-figure{margin:0 0 2rem}
+.pmn-angel-figure img{display:block;width:100%;height:auto;border-radius:18px;box-shadow:0 14px 35px rgba(42,30,56,.12)}
+.pmn-angel-figure figcaption{font-size:.88rem;color:#5b5062;margin:.65rem 0 0;line-height:1.5}
+.pmn-angel-enhanced h2{font-size:clamp(1.5rem,3vw,2.1rem)}
+.pmn-angel-panel{background:#f8f2e9;border:1px solid #ddcfb9;border-radius:16px;padding:clamp(1.2rem,3vw,2rem);margin:1.5rem 0}
+.pmn-angel-panel h2,.pmn-angel-context h2{margin-top:0}
+.pmn-angel-panel p:last-child,.pmn-angel-context p:last-child{margin-bottom:0}
+.pmn-angel-panel ol{padding-left:1.4rem;margin-bottom:0;line-height:1.75}
+.pmn-angel-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:1.25rem 0 2rem}
+.pmn-angel-card{display:flex;flex-direction:column;gap:.2rem;padding:1rem 1.1rem;background:#fff;border:1px solid #d8c4a2;border-radius:14px;text-decoration:none;color:#382844;transition:transform .2s,border-color .2s,box-shadow .2s}
+.pmn-angel-card:hover{transform:translateY(-3px);border-color:#8d6e43;box-shadow:0 10px 25px rgba(42,30,56,.1)}
+.pmn-angel-card strong{font-family:'Cormorant Garamond',serif;font-size:2.4rem;line-height:1;color:#633a76}
+.pmn-angel-card span{font-weight:700;font-size:1rem}
+.pmn-angel-card small{font-size:.82rem;line-height:1.45;color:#594f60}
+.pmn-angel-finder label{display:block;font-weight:700;margin-bottom:.5rem}
+.pmn-angel-finder>div{display:flex;gap:.65rem;flex-wrap:wrap}
+.pmn-angel-finder input{flex:1 1 180px;min-height:48px;padding:.65rem .85rem;border:1px solid #917d9a;border-radius:8px;background:#fff;color:#2d2436;font:inherit}
+.pmn-angel-finder button{min-height:48px;padding:.65rem 1.2rem;border:0;border-radius:8px;background:#50305f;color:#fff;font:inherit;font-weight:700;cursor:pointer}
+.pmn-angel-finder button:hover{background:#392245}
+.pmn-angel-feedback{font-size:.9rem;margin:.65rem 0 0!important;color:#55465d}
+.pmn-angel-context{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.4rem;margin:2rem 0}
+.pmn-angel-context section{border-left:4px solid #ad8cbd;padding:0 0 0 1rem}
+.pmn-angel-context h2{font-size:1.5rem}
+.pmn-angel-steps{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem;list-style:none;counter-reset:angel-step;padding:0!important;margin:1rem 0!important}
+.pmn-angel-steps li{counter-increment:angel-step;background:white;border:1px solid #ddcfb9;border-radius:12px;padding:1rem;font-weight:700;line-height:1.5}
+.pmn-angel-steps li:before{content:counter(angel-step);display:grid;place-items:center;width:2rem;height:2rem;background:#623b72;color:white;border-radius:50%;margin-bottom:.6rem}
+.pmn-angel-faq{border-top:1px solid #d8c4a2;border-bottom:1px solid #d8c4a2;padding:1rem 0;margin:1.5rem 0}
+.pmn-angel-faq summary{cursor:pointer;font-weight:700;color:#382844}
+.pmn-angel-faq p{margin:1rem 0 0!important}
+.pmn-angel-back a{font-weight:700}
+.pmn-angel-enhanced a:focus-visible,.pmn-angel-enhanced input:focus-visible,.pmn-angel-enhanced button:focus-visible,.pmn-angel-enhanced summary:focus-visible{outline:3px solid #8b5a9b;outline-offset:3px}
+@media(max-width:700px){.pmn-angel-cards{grid-template-columns:repeat(2,minmax(0,1fr))}.pmn-angel-context{grid-template-columns:1fr}.pmn-angel-steps{grid-template-columns:1fr}}
+@media(max-width:430px){.pmn-angel-cards{grid-template-columns:1fr}}
+@media print{.pmn-angel-finder{display:none}.pmn-angel-card{break-inside:avoid}.pmn-angel-panel,.pmn-angel-faq{break-inside:avoid}}

@@ -345,7 +345,7 @@ a.pm-card:hover{box-shadow:var(--shadow-card);transform:translateY(-3px)}
 .pm-doc p,.pm-doc li{font-size:16px;line-height:1.85;color:var(--tx-dk-muted)}
 .pm-doc ul,.pm-doc ol{padding-left:1.4em;margin:0 0 1.2em}
 .pm-doc li{margin-bottom:.5em}
-.pm-doc a{color:var(--gold-deep);text-decoration:underline}
+.pm-doc a{color:#806024;text-decoration:underline}
 .pm-doc strong{color:var(--tx-dk-head)}
 .pm-doc img{border-radius:var(--radius);margin:1.5em 0}
 
